@@ -1,10 +1,17 @@
 # PacketGhost: The Unbiased VPN Review Framework
 
-**PacketGhost** is a transparent, open-source VPN evaluation project, inspired by creators like Tom Spark and Techlore — but designed to remove all affiliate manipulation, biased scoring, and more. 
+**PacketGhost** is a transparent, open-source VPN evaluation framework — designed for people who care about facts, not affiliate fluff. Inspired by creators like Tom Spark and Techlore, this project goes further by eliminating:
 
-> ❌ No affiliate links  
-> ❌ No sponsored rankings  
-> ✅ Just the truth, backed by data
+> ❌ Affiliate links  
+> ❌ Sponsored rankings  
+> ❌ Shady backroom deals
+
+Instead, it offers:
+
+> ✅ 100% independent analysis  
+> ✅ A public scoring system (64-point scale)  
+> ✅ Fully documented, data-backed results  
+> ✅ Open to contribution from the privacy community
 
 ---
 
@@ -40,17 +47,6 @@
 | Brave VPN        | 20.0  |
 | Avast VPN        | 12.0  |
 
-🔍 **See the full category-by-category breakdown here:**  
-👉 [Google Sheets: PacketGhost VPN Scores](https://docs.google.com/spreadsheets/d/1qLpHeZq6yJhvgcDlHmhBumbn7adjIIXgG91JFkHauFE/edit?usp=sharing)
-
----
-
-## 🤝 Contribute
-
-Found an error? Want to add a new VPN or suggest a better category? PRs and feedback welcome.
-
----
-
-## 📄 License
-
-MIT – you’re free to use, fork, adapt, and share.
+🔍 **Want to see how each category is scored (e.g. streaming, privacy, transparency)?**  
+👉 [View the full breakdown on Google Sheets](https://docs.google.com/spreadsheets/d/1qLpHeZq6yJhvgcDlHmhBumbn7adjIIXgG91JFkHauFE/edit?usp=sharing)
+****

@@ -1,12 +1,6 @@
-
----
-
-```markdown
 # 🧼 PacketGhost Data Broker Removal Rankings
 
-> Built for transparency. No affiliate bias. Just the truth on who actually removes your personal data from the internet — with proof.
-  > 🧾 View the full breakdown → [Live Rankings Sheet](https://docs.google.com/spreadsheets/d/1dSp2FwR8umbc4NKianmHcmLv5-J_y2HKO-wXw8qu9x0/edit?usp=sharing)
-
+> Built for transparency. Just the truth on who actually removes your personal data from the internet — with proof.
 
 ---
 
@@ -16,14 +10,11 @@ This project ranks and scores personal data broker removal services using a weig
 
 No sponsored rankings. No shady money. Just real research.
 
-📊 **See the full live rankings here**:  
-[https://docs.google.com/spreadsheets/d/1dSp2FwR8umbc4NKianmHcmLv5-J_y2HKO-wXw8qu9x0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1dSp2FwR8umbc4NKianmHcmLv5-J_y2HKO-wXw8qu9x0/edit?usp=sharing)
-
 ---
 
 ## 🧠 Why I Made This
 
-After observing this space closely — especially through forums, subreddits, and sponsored content — I noticed most services rely more on hype than transparency. Some claim removals without proof, while others lean heavily on influencer deals.
+After observing this space closely — especially through forums, subreddits, and sponsored content — I noticed most services rely on hype, vague claims, or influencer deals rather than transparency and results.
 
 So I created a ranking system that rewards:
 - Real transparency
@@ -38,7 +29,7 @@ And while I don’t take affiliate deals from most companies, I do support **one
 - Doesn’t own biased review websites
 - Is priced fairly and has a usable free plan
 
-It’s not the focus of this project, but it’s a tool I trust and personally use — so I support it.
+It’s not the focus of this project, but it’s a tool I trust — so I support it.
 
 ---
 
@@ -46,7 +37,7 @@ It’s not the focus of this project, but it’s a tool I trust and personally u
 
 Not all features matter equally.
 
-Some features directly improve your privacy — like proof of removal or verified data scanning. Others, like UI polish or refund terms, are helpful but less critical. That’s why this system uses **weighted scoring**, not a flat checklist.
+Some features directly improve your privacy — like proof of removal or verified data scanning. Others, like refund policies or a nice UI, are helpful but secondary. That’s why this system uses **weighted scoring**, not a flat checklist.
 
 ### 🔑 Here's the thinking:
 
@@ -57,49 +48,42 @@ Some features directly improve your privacy — like proof of removal or verifie
 | ✅ **Verified Data Discovery**| 2x     | Only removing what’s actually there is smarter and more respectful of users. |
 | ❌ **Owning Review Sites**    | -3x    | If you rank yourself, you're not a review — you're a funnel. |
 
-Other features like refund policies, family plans, and free tiers are factored in, but with less weight.
+Other features like refund policies, family plans, and free tiers are included, but weighted less.
 
 ---
 
 ## 🛠 Methodology
 
-- All rankings are based on feature testing, transparency practices, and community/user feedback.
-- Scores reflect real privacy outcomes, not brand popularity or ad spend.
-- Services that lack proof, show misleading marketing, or have review conflicts are penalized.
+- Rankings are based on features, transparency, user control, and actual effectiveness.
+- Services are manually reviewed and scored based on public info, usage, and user-reported results.
+- Scores reflect **privacy outcomes**, not popularity or ad spending.
 
-📈 **Current rankings spreadsheet** (updated regularly):  
+📈 **Live rankings sheet** →  
 [https://docs.google.com/spreadsheets/d/1dSp2FwR8umbc4NKianmHcmLv5-J_y2HKO-wXw8qu9x0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1dSp2FwR8umbc4NKianmHcmLv5-J_y2HKO-wXw8qu9x0/edit?usp=sharing)
 
 ---
 
 ## 🤝 Affiliate Disclosure & Integrity Policy
 
-We only use **one affiliate link**, and that’s for **[Optery](https://get.optery.com/ev1xqres14zd)** — the **only service we've tested that provides verifiable, screenshot-based removal reports**, covers hundreds of brokers, and doesn’t engage in shady marketing.
+We only use **one affiliate link**, and that’s for **[Optery](https://get.optery.com/ev1xqres14zd)** — the only service we've tested that provides real, screenshot-based proof of data removal, covers hundreds of brokers, and avoids manipulative marketing.
 
 ### Why not others?
 
-- ❌ **DeleteMe**: Heavy influencer sponsorships, little visual proof, and inflated advertising.
-- ❌ **Incogni**: Owned by a company that also owns “review” websites — which is a conflict of interest.
-- ❌ **Other services**: Many are overpriced, offer little transparency, or simply underdeliver.
+- ❌ **DeleteMe**: Heavy on influencer promotions and advertising, light on proof or transparency.
+- ❌ **Incogni**: Tied to companies that own review websites — creating a major conflict of interest.
+- ❌ **Other services**: Either too expensive, too vague, or offer no measurable transparency.
 
-No service can buy a better score here — only real features and proof move the needle.
+No one can pay to improve their ranking here. Period.
 
 ---
 
 ## 📬 Contribute
 
-Want to suggest a new service or help us improve the system?  
-Open a pull request or start a discussion — we’re open to refining this over time.
+Want to suggest a new service or point out an issue?  
+Open a pull request or create an issue — we’re open to improving this over time.
 
 ---
 
 ## 📜 License
 
 MIT License – fork it, remix it, share it. Just don’t fake the rankings.
-```
-
----
-
-Let me know if you want a matching graphic or badge that links to the spreadsheet, like:
-
-

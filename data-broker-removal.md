@@ -27,7 +27,7 @@ And while I don’t take affiliate deals from most companies, I do support **one
 - Offers **screenshot-based proof**
 - Covers over 300+ brokers
 - Doesn’t own biased review websites
-- Is priced fairly and has a usable free plan
+- Is priced fairly and has a usable free plan (even cheaper with code "packetghost" for 20% off)
 
 It’s not the focus of this project, but it’s a tool I trust — so I support it.
 

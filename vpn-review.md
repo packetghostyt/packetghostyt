@@ -4,25 +4,24 @@
 
 ---
 
+##  Top 5 VPNs Ranked (Perfect score is a 64)
+-Hide.me 61 
+-ProtonVPN 57
+-Surshark 48
+-Windscribe 45
+-NordVPN 44.25 
+
 ## Evaluation Criteria
 
 Our VPN reviews are based on the following key factors:
 
-- **Performance** – Speed, reliability, and streaming capabilities
-- **Privacy** – Logging policies, jurisdiction, and provider reputation
-- **Usability** – Application quality, pricing, and feature set
-
-📊 [Full Scoring Breakdown](https://docs.google.com/spreadsheets/d/1dSp2FwR8umbc4NKianmHcmLv5-J_y2HKO-wXw8qu9x0/edit?usp=sharing)
-
----
-
-## Review Methodology
-
-Each VPN is tested under consistent conditions to ensure fair comparisons. Our methodology includes:
-
-- **Speed Tests** – Conducted using standardized tools across multiple servers and regions
-- **Privacy Audits** – Examining logging policies, encryption standards, third-party audits, and business reputation
-- **Feature Analysis** – Checking features like kill switch, split tunneling, multihop, and platform support
+- **Pricing** – Affordability, cancellation policies, price increases
+- **Application** – App compatibility and features
+- **Speeds** – Number of servers and speeds provided with bandwidth
+- **Privacy** - Open source analytics and app tracking
+- **Streaming** - If the VPN works with various services like Netflix and how many regions it unblocks
+ 
+📊 [Full Scoring Breakdown](https://docs.google.com/spreadsheets/d/1qLpHeZq6yJhvgcDlHmhBumbn7adjIIXgG91JFkHauFE/edit?usp=sharing)
 
 All reviews are documented and open to public scrutiny. Methodological integrity is our top priority.
 
@@ -40,7 +39,13 @@ We maintain **strict ethical standards** for affiliate relationships. Affiliate 
 
 Any partnership must align with our values of **independence and transparency**. If a VPN fails to meet these standards, we will not engage in an affiliate relationship—regardless of compensation.
 
-Originally, we launched PacketGhost with zero affiliate links to prove a point—that VPN reviews can be ethical, transparent, and data-driven without being driven by profit. But over time, we realized that without any financial support, it became harder to justify the time and effort needed to keep the project alive. That said, we knew we could still do it the right way: by only partnering with VPNs that meet strict standards—no ownership of review sites, no influence on rankings, no shady backdoor deals. The initial no-affiliate approach also helped us gain traction on Reddit, but even then, overly controlling mods shut down discussion and visibility, making it clear that ethical funding was the only sustainable path forward.
+PacketGhost started with zero affiliate links because we wanted to prove something: honest, data-driven VPN reviews can exist without selling out. But the reality is, most of the top VPN channels are either owned outright, financially backed, or quietly sponsored by the very VPNs they’re reviewing. That’s the core problem—one we refuse to be part of.
+
+Over time, it became clear that without any funding, we couldn’t keep the project going. So we made a shift—but on our terms. We now allow affiliate links only for VPNs that meet strict standards: no ownership or investments in review platforms, no control over our content, and no shady backroom deals.
+
+Let it be clear—we will never promote or partner with any VPN that owns, invests in, or controls a review outlet. Period.
+
+Our original no-affiliate stance helped us build trust, especially on Reddit, but even there, mods censored discussions and limited reach on honest discussions. In the end, ethical funding wasn’t just a pivot—it was a way to survive without ever compromising the mission.
 
 ---
 

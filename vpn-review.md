@@ -8,11 +8,11 @@
 
 | VPN         | Score  |
 |-------------|--------|
-| Hide.me     | 61     |
-| ProtonVPN   | 57     |
-| Surfshark   | 48     |
-| Windscribe  | 45     |
-| NordVPN     | 44.25  |
+| [Hide.me](https://hide.me/?friend=packetghost)     | 61     |
+| [ProtonVPN](https://protonvpn.com/)   | 57     |
+| [Surfshark](https://surfshark.com/)   | 48     |
+| [Windscribe](https://windscribe.com/)  | 45     |
+| [NordVPN](https://nordvpn.com/)     | 44.25  |
 
 
 ## Evaluation Criteria

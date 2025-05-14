@@ -1,52 +1,57 @@
-# PacketGhost: The Unbiased VPN Review Framework
+# PacketGhost VPN Review Methodology
 
-**PacketGhost** is a transparent, open-source VPN evaluation framework — designed for people who care about facts, not affiliate fluff. Inspired by creators like Tom Spark and Techlore, this project goes further by eliminating:
-
-> ❌ Affiliate links  
-> ❌ Sponsored rankings  
-> ❌ Shady backroom deals
-
-Instead, it offers:
-
-> ✅ 100% independent analysis  
-> ✅ A public scoring system (64-point scale)  
-> ✅ Fully documented, data-backed results  
-> ✅ Open to contribution from the privacy community
+**PacketGhost** is an independent, open-source project dedicated to providing unbiased VPN reviews. Our evaluations are based on transparent criteria and real-world testing to help users make informed decisions.
 
 ---
 
-## 📊 Full VPN Scores
+## Evaluation Criteria
 
-| VPN             | Score |
-|------------------|-------|
-| Perfect          | 64.0  |
-| hide.me          | 61.0  |
-| ProtonVPN        | 57.0  |
-| Surfshark        | 48.0  |
-| Windscribe       | 45.0  |
-| NordVPN          | 44.25 |
-| Mullvad          | 44.0  |
-| AdGuard VPN      | 41.0  |
-| PIA              | 40.5  |
-| PersonalVPN      | 39.0  |
-| TorGuard         | 38.0  |
-| AzireVPN         | 38.0  |
-| AirVPN           | 37.5  |
-| PrivateVPN       | 36.5  |
-| ExpressVPN       | 36.0  |
-| VyprVPN          | 34.5  |
-| PureVPN          | 32.0  |
-| Ivacy VPN        | 30.0  |
-| HideIPVPN        | 29.5  |
-| Zenmate VPN      | 29.5  |
-| oVPN             | 28.0  |
-| Cyberghost       | 25.0  |
-| HolaVPN          | 24.5  |
-| IPVanish         | 23.0  |
-| VPN Unlimited    | 22.0  |
-| Brave VPN        | 20.0  |
-| Avast VPN        | 12.0  |
+Our VPN reviews are based on the following key factors:
 
-🔍 **Want to see how each category is scored (e.g. streaming, privacy, transparency)?**  
-👉 [View the full breakdown on Google Sheets](https://docs.google.com/spreadsheets/d/1qLpHeZq6yJhvgcDlHmhBumbn7adjIIXgG91JFkHauFE/edit?usp=sharing)
-****
+- **Performance** – Speed, reliability, and streaming capabilities
+- **Privacy** – Logging policies, jurisdiction, and provider reputation
+- **Usability** – Application quality, pricing, and feature set
+
+📊 [Full Scoring Breakdown](https://docs.google.com/spreadsheets/d/1dSp2FwR8umbc4NKianmHcmLv5-J_y2HKO-wXw8qu9x0/edit?usp=sharing)
+
+---
+
+## Review Methodology
+
+Each VPN is tested under consistent conditions to ensure fair comparisons. Our methodology includes:
+
+- **Speed Tests** – Conducted using standardized tools across multiple servers and regions
+- **Privacy Audits** – Examining logging policies, encryption standards, third-party audits, and business reputation
+- **Feature Analysis** – Checking features like kill switch, split tunneling, multihop, and platform support
+
+All reviews are documented and open to public scrutiny. Methodological integrity is our top priority.
+
+---
+
+## Affiliate Program Policy
+
+We maintain **strict ethical standards** for affiliate relationships. Affiliate links are only used for VPNs that meet the following **non-negotiable criteria**:
+
+1. **No Ownership or Investment in Review Sites**  
+   The VPN provider must **not own**, fund, or hold any stake in any VPN review website or media outlet that evaluates VPNs.
+
+2. **No Influence on Reviews**  
+   The VPN provider must **not pressure**, manipulate, or restrict how we review or rank them.
+
+Any partnership must align with our values of **independence and transparency**. If a VPN fails to meet these standards, we will not engage in an affiliate relationship—regardless of compensation.
+
+Originally, we launched PacketGhost with zero affiliate links to prove a point—that VPN reviews can be ethical, transparent, and data-driven without being driven by profit. But over time, we realized that without any financial support, it became harder to justify the time and effort needed to keep the project alive. That said, we knew we could still do it the right way: by only partnering with VPNs that meet strict standards—no ownership of review sites, no influence on rankings, no shady backdoor deals. The initial no-affiliate approach also helped us gain traction on Reddit, but even then, overly controlling mods shut down discussion and visibility, making it clear that ethical funding was the only sustainable path forward.
+
+---
+
+## Contributing
+
+We welcome contributions from the community. If you'd like to suggest a VPN for review, offer test data, or improve our framework:
+
+- Open an issue
+- Submit a pull request
+- Share insights via discussions
+
+---
+
+For more, visit the main repo: [PacketGhost on GitHub](https://github.com/packetghostyt/packetghostyt)

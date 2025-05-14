@@ -4,12 +4,16 @@
 
 ---
 
-##  Top 5 VPNs Ranked (Perfect score is a 64)
--Hide.me 61 
--ProtonVPN 57
--Surshark 48
--Windscribe 45
--NordVPN 44.25 
+### Top 5 VPNs Ranked (Perfect score is 64)
+
+| VPN         | Score  |
+|-------------|--------|
+| Hide.me     | 61     |
+| ProtonVPN   | 57     |
+| Surfshark   | 48     |
+| Windscribe  | 45     |
+| NordVPN     | 44.25  |
+
 
 ## Evaluation Criteria
 

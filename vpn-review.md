@@ -8,7 +8,7 @@
 
 | VPN         | Score  |
 |-------------|--------|
-| [Hide.me](hide.me)     | 61     |
+| [Hide.me](hide.me)    | 61     |
 | [ProtonVPN](https://protonvpn.com/)   | 57     |
 | [Surfshark](https://surfshark.com/)   | 48     |
 | [Windscribe](https://windscribe.com/)  | 45     |

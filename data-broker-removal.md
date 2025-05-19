@@ -1,12 +1,12 @@
 # 🧼 PacketGhost Data Broker Removal Rankings
 
-> Built for transparency. Just the truth on who actually removes your personal data from the internet — with proof.
+> Built for transparency. Just the truth on who actually removes your personal data from the internet — with proof. 
 
 ---
 
 ## 🔍 What Is This?
 
-This project ranks and scores personal data broker removal services using a weighted, ethics-focused system. It's designed to help privacy-conscious users find **tools that actually work**, not tools with the best marketing.
+This project ranks and scores personal data broker removal services using a weighted, ethics-focused system. It's designed to help privacy-conscious users find **tools that actually work**, not tools with the best marketing. Discord: Discord: https://discord.gg/37SEcvkm
 
 No sponsored rankings. No shady money. Just real research.
 

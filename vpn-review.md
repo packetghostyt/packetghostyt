@@ -10,8 +10,8 @@
 |-------------|--------|
 | Hide.me  | 61     |
 | ProtonVPN   | 57     |
+| Windscribe  | 48     
 | Surfshark   | 48     |
-| Windscribe  | 45     |
 | NordVPN   | 44.25  |
 
 

@@ -49,7 +49,7 @@ PacketGhost was created to be different. From day one, we chose not to monetize 
 
 We fund this project ourselves, with no external money, so we can speak freely and critically—without fear of losing income, access, or favor.
 
-Let it be clear:  
+**Let it be clear:**  
 We will **never** accept affiliate commissions.  
 We will **never** take money from the companies we review.  
 We will **never** compromise our integrity for profit.

@@ -12,7 +12,8 @@
 | ProtonVPN   | 57     |
 | Windscribe  | 48     
 | Surfshark   | 48     |
-| NordVPN   | 44.25  |
+| NordVPN   | 43.25  |
+| Mullvad | 43 |
 
 
 ## Evaluation Criteria

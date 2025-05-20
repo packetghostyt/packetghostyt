@@ -6,7 +6,7 @@
 
 ## 🔍 What Is This?
 
-This project ranks and scores personal data broker removal services using a weighted, ethics-focused system. It's designed to help privacy-conscious users find **tools that actually work**, not tools with the best marketing. Discord: Discord: https://discord.gg/37SEcvkm
+This project ranks and scores personal data broker removal services using a weighted, ethics-focused system. It's designed to help privacy-conscious users find **tools that actually work**, not tools with the best marketing.
 
 No sponsored rankings. No shady money. Just real research.
 

@@ -1,6 +1,6 @@
 # PacketGhost VPN Review Methodology
 
-**PacketGhost** is an independent, open-source project dedicated to providing unbiased VPN reviews without affiliate links for VPNs. Our evaluations are based on transparent criteria and real-world testing to help users make informed decisions. Discord: Discord: https://discord.gg/37SEcvkm
+**PacketGhost** is an independent, open-source project dedicated to providing unbiased VPN reviews without affiliate links for VPNs. Our evaluations are based on transparent criteria and real-world testing to help users make informed decisions. 
 
 ---
 

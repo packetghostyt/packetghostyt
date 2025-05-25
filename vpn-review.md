@@ -9,7 +9,7 @@
 | VPN         | Score  |
 |-------------|--------|
 | Hide.me  | 60     |
-| ProtonVPN   | 59     |
+| ProtonVPN   | 54     |
 | Windscribe  | 48     
 | Surfshark   | 48     |
 | NordVPN   | 43.25  |
